@@ -12,6 +12,8 @@ Solo es ejemplo de edición del archivo Readme
 <br>
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
 
+_Note: Original idea by **[Tiffany Timbers](https://github.com/ttimbers/hello)**_
+
 ![](https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_I/main/actividades/img/MCD_logo.png)
 =======
 Estamos añadiendo esta línea desde GitHub
